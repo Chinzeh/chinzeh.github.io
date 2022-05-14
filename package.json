@@ -6,7 +6,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://chinzeh.github.io/chinzeh",
+  "homepage": "https://chinzeh.github.io/chinzeh/root/public/index.html",
   "dependencies": {
     "@emailjs/browser": "^3.6.0",
     "@testing-library/jest-dom": "^5.14.1",
